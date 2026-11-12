@@ -1,2 +1,2 @@
 # Music
-This project was deicateв to the work of German musician Chris Pohl
+This is a guide to the work of German musician Chris Polay.
